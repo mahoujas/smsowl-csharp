@@ -29,7 +29,7 @@ Credentials should be configured before sending SMS. Credential should be passed
 	
 		try
 		{
-		   var smsId = await smsOwl.SendPromotionalSmsAsync("TESTER", "+9189876543210", "Hello C#", SmsType.Flash);;
+		   var smsId = await smsOwl.SendPromotionalSmsAsync("TESTER", "+9189876543210", "Hello C#", SmsType.Flash);
 		   	//Process smsId if you need to
 		}
 		catch (SmsOwlException e)
