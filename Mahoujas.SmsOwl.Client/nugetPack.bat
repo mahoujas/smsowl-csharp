@@ -1,0 +1,1 @@
+nuget pack Mahoujas.SmsOwl.Client.csproj -IncludeReferencedProjects -Prop Configuration=Release

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Pavan Kumar</authors>
+    <owners>M/s Mahoujas</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/mahoujas/smsowl-csharp</projectUrl>
+    <iconUrl>https://none</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package is wrapper of Sms Owl REST API hosted at https://smsowl.in</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>SmsOwl Transactional Sms Promotional Sms Sms Gateway</tags>
+  </metadata>
+</package>
